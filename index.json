@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "data": [
+    {
+      "origin": "MOW",
+      "destination": "OGZ",
+      "origin_airport": "SVO",
+      "destination_airport": "OGZ",
+      "price": 17385,
+      "airline": "DP",
+      "flight_number": "6905",
+      "departure_at": "2022-04-04T14:45:00+03:00",
+      "return_at": "2022-04-11T18:55:00+03:00",
+      "transfers": 0,
+      "return_transfers": 0,
+      "duration": 440,
+      "link": "/search/MOW0404OGZ11041?t=DP16490727001649085900000220SVOOGZ16496925001649705700000220OGZVKO_062718c1770d47834835437d4cd3d8a7_17385\u0026search_date=01042022\u0026expected_price_uuid=ca509d66-a181-481e-a5b4-e16e94a91b9d\u0026expected_price_currency=rub"
+    },
+    {
+      "origin": "MOW",
+      "destination": "OGZ",
+      "origin_airport": "SVO",
+      "destination_airport": "OGZ",
+      "price": 20338,
+      "airline": "DP",
+      "flight_number": "6905",
+      "departure_at": "2022-04-04T14:45:00+03:00",
+      "return_at": "2022-04-11T18:55:00+03:00",
+      "transfers": 0,
+      "return_transfers": 0,
+      "duration": 440,
+      "link": "/search/MOW0404OGZ11041?t=DP16490727001649085900000220SVOOGZ16496925001649705700000220OGZVKO_062718c1770d47834835437d4cd3d8a7_20338\u0026search_date=01042022\u0026expected_price_uuid=ca509d66-a181-481e-a5b4-e16e94a91b9d\u0026expected_price_currency=rub"
+    },
+    {
+      "origin": "MOW",
+      "destination": "OGZ",
+      "origin_airport": "DME",
+      "destination_airport": "OGZ",
+      "price": 22078,
+      "airline": "S7",
+      "flight_number": "2153",
+      "departure_at": "2022-04-04T10:15:00+03:00",
+      "return_at": "2022-04-11T14:40:00+03:00",
+      "transfers": 0,
+      "return_transfers": 0,
+      "duration": 425,
+      "link": "/search/MOW0404OGZ11041?t=S716490565001649069400000215DMEOGZ16496772001649689800000210OGZDME_121480c997a9e8cc58c104e66c1d1f26_22078\u0026search_date=01042022\u0026expected_price_uuid=ca509d66-a181-481e-a5b4-e16e94a91b9d\u0026expected_price_currency=rub"
+    },
+    {
+      "origin": "MOW",
+      "destination": "OGZ",
+      "origin_airport": "DME",
+      "destination_airport": "OGZ",
+      "price": 27678,
+      "airline": "S7",
+      "flight_number": "2153",
+      "departure_at": "2022-04-04T10:15:00+03:00",
+      "return_at": "2022-04-11T14:40:00+03:00",
+      "transfers": 0,
+      "return_transfers": 0,
+      "duration": 425,
+      "link": "/search/MOW0404OGZ11041?t=S716490565001649069400000215DMEOGZ16496772001649689800000210OGZDME_121480c997a9e8cc58c104e66c1d1f26_27678\u0026search_date=01042022\u0026expected_price_uuid=ca509d66-a181-481e-a5b4-e16e94a91b9d\u0026expected_price_currency=rub"
+    }
+  ],
+  "currency": "rub"
+}
