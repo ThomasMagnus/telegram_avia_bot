@@ -4,7 +4,7 @@ from telebot import types
 import re
 from dateutil.parser import parse
 
-bot = telebot.TeleBot('5080638026:AAFkaPdoe5navf9yXdWlZfTKuZ4hTniz-Zo')
+bot = telebot.TeleBot(YOUR_TELEBOT_TOKEN)
 
 
 @bot.message_handler(commands=['start'])
