@@ -44,7 +44,7 @@ def get_city(message):
         else:
             Data.date = message.text
             bot.send_message(message.chat.id, "Отлично! Запрос обрабатывается!")
-            tickets = Tickets('3899b13ca2637bbb06562dbae5bd3146', city=Data.city, route=Data.route,
+            tickets = Tickets(YOUR_AVIASALES_TOKEN, city=Data.city, route=Data.route,
                               route_date=Data.date)
             response = tickets.get_tickets()['data']
             print(tickets.get_tickets())
